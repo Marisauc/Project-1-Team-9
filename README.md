@@ -41,6 +41,10 @@ p. Perkins Loans are a minuscule portion, making up only 0.6%.
 q. Conclusion
 r. In 2013, there has been a noticeable uptick in students seeking financial assistance. Post-2019, available funds sufficiently addressed the financial requirements of students. While FFEL and Perkins contribute to the loan landscape, over 70% of the disbursements originate from Federal Direct Loans.
 
+3. What is the average cost of tuition relative to the average amount of student debt for a 4-year university? 
+
+Over the last 60 years we have seen an exponential increase in the cost of higher education. The average academic year costs for tuition, fees, room, and board being $11,760 in 1963 and $30,031 in 2022. That is a staggering 155% increase in average tuition costs. In addition we can see that there is a trend of increase in people having to take out student loans. Not only is there an increase in the number of borrowers as time goes on but more and more people are having to take out higher loans. We can also see a decrease in the number of borrowers that are taking out loans less than $5,000, as this amount is no longer enough to cover tuition costs. This in turn is causing an increase in the outstanding dollar amount of student debt and continues to perpetuate the national student loan crisis.
+
 
 References:
 
